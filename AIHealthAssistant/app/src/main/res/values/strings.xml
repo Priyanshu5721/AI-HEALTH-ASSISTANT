@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AI Health Assistant</string>
+    <string name="predicted_disease">Predicted: %1$s</string>
+    <string name="error_enter_symptoms">Please enter symptoms</string>
+    <string name="error_prefix">Error: %1$s</string>
+    <string name="ai_unavailable">AI insight service is currently unavailable (Error %1$d). Please verify your internet connection or API key.</string>
+    <string name="ai_safety_blocked">The AI could not generate a response for this condition due to safety guidelines. Please consult a doctor immediately.</string>
+    <string name="ai_safety_reason">Analysis limited by safety filters (Reason: %1$s). Please seek professional medical advice.</string>
+    <string name="ai_connection_error">Connection error: Unable to load detailed explanation for %1$s. %2$s</string>
+</resources>
